@@ -1,2 +1,0 @@
-# innovators
-INNOVATORS' License

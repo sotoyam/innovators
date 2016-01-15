@@ -42,3 +42,12 @@ INNOVATORS' は利益を目的とするべきでない。
 ### 寄付、ファンドレイジング
 金銭的な不足がある場合は、スポンサーにもとめるよりはイベントのためにクラウドファンディングや寄付を集めることが望ましい。
 
+## Pull Req, Fork me!
+INNOVATORS' は出来たばかりでまだまだ未熟です。　ぜひぜひPull RequestやFork、編集し、活用してください。
+
+## Author & Copyright
+Soto Yamauchi
+Yoshinori Hanawa
+
+Copyright (c) 2015 INNOVATORS' COMMITTEE
+Released under the MIT license

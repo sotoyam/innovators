@@ -7,11 +7,11 @@
 2015年から始まったINNOVATORS’の「挑戦を応援し促進する」という理念からブレないよう忘れず保持すべきである。また、INNOVATORS’ はすべてのトピックに対し中立的であること。
 
 ## ブランディング
-Logo Design Rulesに沿ったブランディングをすることでINNOVATORS' のアイデンティティーを確立しよう。
+Logo Design Policyに沿ったブランディングをすることでINNOVATORS' のアイデンティティーを確立しよう。
 INNOVATORS’ のいかなるロゴ、名前、アイデンティティーは他団体、法人等との共催、それらによる開催は認めるべきでない。ただし、スポンサー等のバックアップが必要な場合は複数の業界から合計3団体以上とスポンサーシップを組み、それを明記、明言することを求める。
 
 ## 名前
-イベント名はEvent Naming Rules に沿った名前をつけるべきである。ブランドをかくりつするため、省略形を明記、明言するべきでない。
+イベント名はEvent Naming Policy に沿った名前をつけるべきである。ブランドをかくりつするため、省略形を明記、明言するべきでない。
 
 ## プログラム
 ### ワークショップ
@@ -46,7 +46,7 @@ INNOVATORS' は利益を目的とするべきでない。
 INNOVATORS' は出来たばかりでまだまだ未熟です。　ぜひぜひPull RequestやFork、編集し、活用してください。
 
 ## Committor & Copyright
-Soto Yamauchi
+Soto Yamauchi & 
 Yoshinori Hanawa
 
 Copyright (c) 2016

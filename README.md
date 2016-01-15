@@ -46,8 +46,8 @@ INNOVATORS' は利益を目的とするべきでない。
 INNOVATORS' は出来たばかりでまだまだ未熟です。　ぜひぜひPull RequestやFork、編集し、活用してください。
 
 ## Committor & Copyright
-Soto Yamauchi & 
-Yoshinori Hanawa
+<a href="http://github.com/sotoyam/">Soto Yamauchi</a> & 
+<a href="https://github.com/hanawaysnr/">Yoshinori Hanawa</a>
 
 Copyright (c) 2016
 Released under the MIT license

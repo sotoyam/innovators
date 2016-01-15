@@ -12,7 +12,11 @@
 ### 改行
 基本的に改行は無し。スペースの関係でどうしてもの時は、スペースの位置で改行。
 
+<img src="./assets/2.png" height="100"></br>
+↑標準
 
-<img src="./assets/1.png" height="100">
-<img src="./assets/2.png" height="100">
-<img src="./assets/3.png" height="100">
+<img src="./assets/1.png" height="100"></br>
+↑強調と基本が入れ替わり
+
+<img src="./assets/3.png" height="100"></br>
+↑区別色（目立たせたい用途）

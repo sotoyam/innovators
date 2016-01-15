@@ -49,5 +49,5 @@ INNOVATORS' は出来たばかりでまだまだ未熟です。　ぜひぜひPu
 Soto Yamauchi
 Yoshinori Hanawa
 
-Copyright (c) 2015 INNOVATORS' COMMITTEE
+Copyright (c) 2016
 Released under the MIT license

@@ -45,7 +45,7 @@ INNOVATORS' は利益を目的とするべきでない。
 ## Pull Req, Fork me!
 INNOVATORS' は出来たばかりでまだまだ未熟です。　ぜひぜひPull RequestやFork、編集し、活用してください。
 
-## Author & Copyright
+## Committor & Copyright
 Soto Yamauchi
 Yoshinori Hanawa
 
